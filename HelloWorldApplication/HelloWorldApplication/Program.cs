@@ -12,6 +12,7 @@ namespace HelloWorldApplication
         {
 
             //This is the Branch 1 comment
+            // Comment 2
         }
     }
 }
